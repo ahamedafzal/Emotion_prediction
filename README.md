@@ -1,2 +1,2 @@
 # Emotion_prediction
- this repository deals with the nlp emotion dataset and predict the emotion.
+ This repository deals with the nlp emotion dataset and predict the emotion.
